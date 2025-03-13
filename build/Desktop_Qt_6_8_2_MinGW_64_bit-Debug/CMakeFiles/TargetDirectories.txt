@@ -1,0 +1,9 @@
+C:/ProgramData/QtCreator/Links/13d223eb134adf9fc12ba79279eed5d4/CMakeFiles/TouristManager.dir
+C:/ProgramData/QtCreator/Links/13d223eb134adf9fc12ba79279eed5d4/CMakeFiles/edit_cache.dir
+C:/ProgramData/QtCreator/Links/13d223eb134adf9fc12ba79279eed5d4/CMakeFiles/rebuild_cache.dir
+C:/ProgramData/QtCreator/Links/13d223eb134adf9fc12ba79279eed5d4/CMakeFiles/list_install_components.dir
+C:/ProgramData/QtCreator/Links/13d223eb134adf9fc12ba79279eed5d4/CMakeFiles/install.dir
+C:/ProgramData/QtCreator/Links/13d223eb134adf9fc12ba79279eed5d4/CMakeFiles/install/local.dir
+C:/ProgramData/QtCreator/Links/13d223eb134adf9fc12ba79279eed5d4/CMakeFiles/install/strip.dir
+C:/ProgramData/QtCreator/Links/13d223eb134adf9fc12ba79279eed5d4/CMakeFiles/TouristManager_autogen_timestamp_deps.dir
+C:/ProgramData/QtCreator/Links/13d223eb134adf9fc12ba79279eed5d4/CMakeFiles/TouristManager_autogen.dir

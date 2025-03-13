@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "C:/ProgramData/QtCreator/Links/13d223eb134adf9fc12ba79279eed5d4/TouristManager_autogen",
+	"CMAKE_BINARY_DIR" : "C:/ProgramData/QtCreator/Links/13d223eb134adf9fc12ba79279eed5d4",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/ProgramData/QtCreator/Links/13d223eb134adf9fc12ba79279eed5d4",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/ProgramData/QtCreator/Links/d15b6d1dc27bf60ba87efa7dd4b284c8",
+	"CMAKE_SOURCE_DIR" : "C:/ProgramData/QtCreator/Links/d15b6d1dc27bf60ba87efa7dd4b284c8",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "MinGW Makefiles",
+	"INCLUDE_DIR" : "C:/ProgramData/QtCreator/Links/13d223eb134adf9fc12ba79279eed5d4/TouristManager_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/ProgramData/QtCreator/Links/d15b6d1dc27bf60ba87efa7dd4b284c8/1_background_image.jpg"
+	],
+	"LOCK_FILE" : "C:/ProgramData/QtCreator/Links/13d223eb134adf9fc12ba79279eed5d4/CMakeFiles/TouristManager_autogen.dir/AutoRcc_resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resource.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.8.2/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/ProgramData/QtCreator/Links/13d223eb134adf9fc12ba79279eed5d4/CMakeFiles/TouristManager_autogen.dir/AutoRcc_resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/ProgramData/QtCreator/Links/d15b6d1dc27bf60ba87efa7dd4b284c8/resource.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

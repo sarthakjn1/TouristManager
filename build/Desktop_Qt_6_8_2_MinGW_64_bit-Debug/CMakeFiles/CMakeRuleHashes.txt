@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+28ca5db9a1dff47d96741c4d3a026949 CMakeFiles/TouristManager_autogen
+7fede11039c1094cd4e24aa7c9e160c5 TouristManager_autogen/EWIEGA46WW/qrc_resource.cpp
+7d437994c2dea371f1883c3b02f68a06 TouristManager_autogen/timestamp
